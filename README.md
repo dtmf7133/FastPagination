@@ -3,7 +3,7 @@
  
  FastPagination class     
   
- @package  OpenGallery   http://github.com/par7133     
+ @package  OpenGallery   http://github.com/dtmf7133     
  @author   Daniele Bonini <code@gaox.io>      
  @version  1.0     
  @phpver   5.6 to 7.3      
